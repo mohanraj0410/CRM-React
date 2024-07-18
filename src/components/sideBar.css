@@ -1,0 +1,8 @@
+/* src/components/Sidebar.css */
+.ps-sidebar-container {
+    /* Add your custom sidebar styles here */
+    background-color: #2f2f2f; /* Example background color */
+}
+.ps-menuitem {
+    color: #fff; /* Example menu item color */
+}
